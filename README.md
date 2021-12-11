@@ -1,2 +1,8 @@
-# desafio-github-dio
-Desafio de projeto sobre Git/GitHub DIO
+# Desafio de Projeto sobre Git/GitHub da DIO
+
+Repositório criado para o Desafio de Projeto.
+
+### Links Úteis
+[Sintáxe Básica Markdown](https://www.markdownguide.org/getting-started/)
+
+## 1 - Bootcamp MRV Fuulstack Developer
